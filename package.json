@@ -1,0 +1,21 @@
+{
+  "name": "kaiokenkolors",
+  "displayName": "KaioKenKolors",
+  "description": "Color theme to go super saiyan!!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "KaiokenKolors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KaiokenKolors-color-theme.json"
+      }
+    ]
+  }
+}
